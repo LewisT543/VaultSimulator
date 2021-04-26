@@ -5,7 +5,7 @@ The specific vault used for this example was the BNB-AUTO LP, with a view to fin
 
 ## Requirements
 
-- Pandas only
+Pandas only. 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pandas.
 
 ```bash
